@@ -16,4 +16,4 @@
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mega500201=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/Mega500201=anuraghazra&show_icons=true&theme=tokyonight)
