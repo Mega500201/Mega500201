@@ -8,9 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mega500201&show_icons=true&theme=radical)
 
-### Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mega500201)](https://git.io/streak-stats)
 
 
 ---
