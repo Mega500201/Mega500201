@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mega500201&show_icons=true&theme=radical)
 
-
+https://custom-icon-badges.demolab.com/[github/license/denvercoder1/custom-icon-badges](https://github.com/Mega500201/UCS-Wiki/blob/main/LICENSE)?logo=law
 
 
 ---
