@@ -4,7 +4,7 @@
 
 ---
 
-### Stats
+### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mega500201&show_icons=true&theme=radical)
 
